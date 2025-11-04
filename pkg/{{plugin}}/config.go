@@ -1,4 +1,4 @@
-package __plugin__
+package {{plugin}}
 
 type Config struct {
 	// Add your plugin config fields here
